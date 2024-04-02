@@ -35,13 +35,14 @@ The dataset used for this project consists of a large collection of images, each
 ### Model Evaluation
 
 - Evaluating the trained model's performance on both training and validation sets to assess accuracy and loss.
+![training_history](https://github.com/Toldblog/Dogs-Cats-Classifier/blob/main/training_history.png)
 - Generating confusion matrix and classification report to analyze the model's performance across different classes (dogs and cats).
 
 ### Model Prediction
 
 - Using the trained model to predict the labels (dog or cat) for the testing dataset.
 - Visualizing the results by displaying sample images along with their predicted labels.
-
+![prediction](https://github.com/Toldblog/Dogs-Cats-Classifier/blob/main/dog_cat_predict.png)
 ## Results
 
 The model achieves a certain level of accuracy in distinguishing between images of dogs and cats, indicating its capability to generalize well to unseen data. Visualization of training and validation metrics helps in understanding the model's training progress and performance.
