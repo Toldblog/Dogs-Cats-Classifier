@@ -29,6 +29,7 @@ The dataset used for this project consists of a large collection of images, each
 
 - Training the model using the training data and validating its performance using the validation set.
 - Applying data augmentation techniques such as rotation, shifting, zooming, and horizontal flipping to increase the diversity of the training data.
+![Dog vs Cat](https://github.com/Toldblog/Dogs-Cats-Classifier/blob/main/example_image.png)
 - Employing early stopping and learning rate reduction callbacks to prevent overfitting and improve convergence.
 
 ### Model Evaluation
